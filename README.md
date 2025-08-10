@@ -19,6 +19,8 @@ Redux Toolkit – State management.
 Tailwind CSS – Styling and responsiveness.
 
 📸 video
+::<img src="https://github.com/SwapnilpatilTech/Weather-Api/blob/c475dab71aab725de5352b8a74fecff83bf1d4bd/Weather%20Api/Assets/Weather%20Api.gif" alt="Weather App Demo" width="100%" />
+
 
 📂 Folder Structure
 bash
