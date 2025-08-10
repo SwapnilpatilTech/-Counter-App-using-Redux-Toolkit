@@ -1,12 +1,35 @@
-# React + Vite
+Counter App using Redux Toolkit
+A simple and interactive Counter Application built with React and Redux Toolkit.
+This project demonstrates the core concepts of Redux Toolkit such as createSlice, useSelector, and useDispatch for efficient state management in a clean and minimal UI.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+🚀 Features
+Increment and decrement the counter.
 
-Currently, two official plugins are available:
+Centralized state management using Redux Toolkit.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Responsive and clean UI built with Tailwind CSS.
 
-## Expanding the ESLint configuration
+Easy-to-understand folder structure for beginners.
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+🛠️ Tech Stack
+React – Component-based UI.
+
+Redux Toolkit – State management.
+
+Tailwind CSS – Styling and responsiveness.
+
+📸 video
+
+📂 Folder Structure
+bash
+Copy
+Edit
+src/
+│── app/           # Redux store configuration
+│── features/      # Redux slices (counterSlice.js)
+│── components/    # React components
+│── App.jsx        # Main app component
+│── index.css      # Tailwind styles
+│── main.jsx       # Entry point
+⚡ Getting Started
+1. Clone the repository
