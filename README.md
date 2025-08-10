@@ -19,7 +19,7 @@ Redux Toolkit – State management.
 Tailwind CSS – Styling and responsiveness.
 
 📸 video
-::<img src="https://github.com/SwapnilpatilTech/-Counter-App-using-Redux-Toolkit/blob/e3273753e55f01bdb14a5e58f86887f075f57f45/Untitled%20video%20-%20Made%20with%20Clipchamp%20(2)%20(1).mp4" width="100%" />
+::<img src="https://github.com/SwapnilpatilTech/-Counter-App-using-Redux-Toolkit/blob/879184ac963c3c2b9fe7af3090308a2a52583de1/Screenshot%202025-08-11%20000946.png" width="100%" />
 
 
 📂 Folder Structure
